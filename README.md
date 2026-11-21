@@ -17,7 +17,7 @@
 [![RHEL 9 Image Mode](https://img.shields.io/badge/Red%20Hat%20Linux-red?logo=redhat)](https://redhat.com)
 [![OpenTofu IaC](https://img.shields.io/badge/Opentofu-gray?logo=opentofu)](https://opentofu.org)
 [![GitLab CI/CD](https://img.shields.io/badge/Gitlab-white?logo=gitlab)](https://gitlab.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-cyan?logo=kubernetes)](https://kubernetes.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-cyan?logo=kubernetes)](https://kubernetes.io)
 [![Ansible Automation](https://img.shields.io/badge/Ansible-black?logo=ansible)](https://ansible.com)
 [![OpenBao SSOT](https://img.shields.io/badge/Openbao-green?logo=openbao)](https://openbao.org)
 
